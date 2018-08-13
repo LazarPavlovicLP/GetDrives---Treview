@@ -1,0 +1,9 @@
+C:\Users\LAZA\documents\visual studio 2015\Projects\GetDrives\GetDrives\bin\Debug\GetDrives.exe.config
+C:\Users\LAZA\documents\visual studio 2015\Projects\GetDrives\GetDrives\bin\Debug\GetDrives.exe
+C:\Users\LAZA\documents\visual studio 2015\Projects\GetDrives\GetDrives\bin\Debug\GetDrives.pdb
+C:\Users\LAZA\documents\visual studio 2015\Projects\GetDrives\GetDrives\obj\Debug\GetDrives.Form1.resources
+C:\Users\LAZA\documents\visual studio 2015\Projects\GetDrives\GetDrives\obj\Debug\GetDrives.Properties.Resources.resources
+C:\Users\LAZA\documents\visual studio 2015\Projects\GetDrives\GetDrives\obj\Debug\GetDrives.csproj.GenerateResource.Cache
+C:\Users\LAZA\documents\visual studio 2015\Projects\GetDrives\GetDrives\obj\Debug\GetDrives.exe
+C:\Users\LAZA\documents\visual studio 2015\Projects\GetDrives\GetDrives\obj\Debug\GetDrives.pdb
+C:\Users\LAZA\Documents\Visual Studio 2015\Projects\GetDrives\GetDrives\obj\Debug\GetDrives.csprojResolveAssemblyReference.cache
